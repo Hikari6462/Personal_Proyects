@@ -29,5 +29,6 @@ The Encryption and Decryption in Python project requires implementing a
 * Displays the result based on the user’s selection.
 
 Example
+
 The example creates a Transposition Cipher instance with a key of 5 and allows the user to choose between encrypting or decrypting a message.
 
