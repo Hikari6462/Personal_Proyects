@@ -11,19 +11,19 @@ The Encryption and Decryption in Python project requires implementing a
 1- TranspositionCipher Class:
 * Attribute key: A class used to determine the number of columns in the grid used for encryption and decryption.
 
-2- encrypt_message Method:
+2- Encrypt_message Method:
 * Removes spaces from the message.
 * Calculates the number of rows needed for the grid. If the message doesn’t divide evenly by the number of columns, an additional row is added.
 * Fills the grid with characters from the message.
 * Encrypts the message by reading the characters from the grid column-wise.
 
-3- decrypt_message Method:
+3- Decrypt_message Method:
 * Calculates the number of columns and rows needed for the grid. If the encrypted message doesn’t divide evenly by the number of columns, an additional row is added.
 * Determines the number of empty cells in the last row.
 * Fills the grid with characters from the encrypted message column-wise.
 * Decrypts the message by reading the characters from the grid row-wise.
 
-process_message Method:
+4- Process_message Method:
 
 * Asks the user to choose between encrypting or decrypting a message.
 * Displays the result based on the user’s selection.
