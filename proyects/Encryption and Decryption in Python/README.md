@@ -1,10 +1,10 @@
-## Descripccion 
+# Descripccion 
 El proyecto Cifrado y descifrado en Python requiere que implemente una clase TranspositionCipher que incorpore los siguientes elementos:
 * Una función constructora que acepta la clave de cifrado como argumento.
 * Un método designado para cifrar un mensaje que requiere un único parámetro: el mensaje de texto plano que se va a cifrar.
 * Un método dedicado a descifrar un mensaje que requiere un argumento: el mensaje previamente cifrado en formato de texto cifrado.
 
-# Explicación del código
+## Explicación del código
 1.	Clase TranspositionCipher:
 * Atributo key: una clase que se utiliza para determinar el número de columnas en la cuadrícula utilizada para el cifrado y descifrado.
 
