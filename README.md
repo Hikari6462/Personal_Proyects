@@ -1,5 +1,10 @@
 # Personal_Proyects
 
+## Analyzing a bank's credit risk
+reducing credit risk has led a German financial institution to seek innovative solutions.
+
+[Analyzing a bank's credit risk](https://github.com/Hikari6462/Personal_projects/tree/main/Analyzing%20a%20bank's%20credit%20risk)
+
 ## Python encriptation 
 [python encriptation](https://github.com/Hikari6462/Personal_Proyects/tree/main/proyects/Encryption%20and%20Decryption%20in%20Python)
 
