@@ -17,10 +17,15 @@ This is a command-line-based password manager application that allows users to s
 
 ## Menu Options
 1- Add Password: Add a new password entry.
+
 2- View All Passwords: Display a table of all stored passwords.
+
 3- View a Password: Search for and view a specific password by ID.
+
 4- Modify Password: Update an existing password entry.
+
 5- Delete Password: Delete a password entry.
+
 6- Exit: Close the application.
 
 ## Dependencies
