@@ -1,5 +1,9 @@
 # Personal_Proyects
 
+## TinderBotApp
+TinderBotApp is a Telegram bot application designed to interact with users in various ways 
+[TinderBotApp](https://github.com/Hikari6462/TinderBotApp)
+
 ## Analyzing a bank's credit risk 📈💵
 reducing credit risk has led a German financial institution to seek innovative solutions.
 
